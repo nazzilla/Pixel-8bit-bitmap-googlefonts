@@ -18,62 +18,62 @@ https://fonts.google.com/specimen/Silkscreen
 https://fonts.google.com/specimen/Micro+5
 
 **Micro 5 Charted**
-https://fonts.google.com/specimen/Micro+5+Charted?classification=Display
+https://fonts.google.com/specimen/Micro+5+Charted
 
 **Press Start 2P**
 https://fonts.google.com/specimen/Press+Start+2P
 
 **Pixelify Sans**  ⭐️
-https://fonts.google.com/specimen/Pixelify+Sans?classification=Display
+https://fonts.google.com/specimen/Pixelify+Sans
 
 **Handjet** ⭐️
-https://fonts.google.com/specimen/Handjet?classification=Display
+https://fonts.google.com/specimen/Handjet
 
 **Silkscreen** 
-https://fonts.google.com/specimen/Silkscreen?classification=Display
+https://fonts.google.com/specimen/Silkscreen
 
 **Tiny5**
-https://fonts.google.com/specimen/Tiny5?classification=Display
+https://fonts.google.com/specimen/Tiny5
 
 **Jacquard 12**
-https://fonts.google.com/specimen/Jacquard+12?classification=Display
+https://fonts.google.com/specimen/Jacquard+12
 
 **Jacquard 12 Charted**
-https://fonts.google.com/specimen/Jacquard+12+Charted?classification=Display
+https://fonts.google.com/specimen/Jacquard+12+Charted
 
 
 **Jacquarda Bastarda 9**
-https://fonts.google.com/specimen/Jacquarda+Bastarda+9?classification=Display
+https://fonts.google.com/specimen/Jacquarda+Bastarda+9
 
 **Jersey 25**
-https://fonts.google.com/specimen/Jersey+25?query=jersey
+https://fonts.google.com/specimen/Jersey+25
 
 **Jersey 25** Charted
-https://fonts.google.com/specimen/Jersey+25+Charted?query=jersey
+https://fonts.google.com/specimen/Jersey+25+Charted
 
 **Jacquard 24 Charted**
-https://fonts.google.com/specimen/Jacquard+24+Charted?classification=Display
+https://fonts.google.com/specimen/Jacquard+24+Charted
 
 **Jersey 10**
-https://fonts.google.com/specimen/Jersey+10?classification=Display
+https://fonts.google.com/specimen/Jersey+10
 
 **Jersey 10 Charted**
-https://fonts.google.com/specimen/Jersey+10+Charted?classification=Display
+https://fonts.google.com/specimen/Jersey+10+Charted
 
 **Jersey 15**
-https://fonts.google.com/specimen/Jersey+15?classification=Display
+https://fonts.google.com/specimen/Jersey+15
 
 **Jersey 15 Charted**
-https://fonts.google.com/specimen/Jersey+15+Charted?classification=Display
+https://fonts.google.com/specimen/Jersey+15+Charted
 
 **Jersey 20**
-https://fonts.google.com/specimen/Jersey+20?classification=Display
+https://fonts.google.com/specimen/Jersey+20
 
 **Jacquarda Bastarda 9 Charted** ( gothic serif )
-https://fonts.google.com/specimen/Jacquarda+Bastarda+9+Charted?classification=Display
+https://fonts.google.com/specimen/Jacquarda+Bastarda+9+Charted
 
 **DotGothic16**
 https://fonts.google.com/specimen/DotGothic16
 
 **Jacquard 24**  ( gothic serif  bold)
-https://fonts.google.com/specimen/Jacquard+24?classification=Display
+https://fonts.google.com/specimen/Jacquard+24
